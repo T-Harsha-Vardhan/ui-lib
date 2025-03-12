@@ -1,0 +1,6 @@
+node_modules
+next.config.js
+public
+build.js
+src/*
+!src/index.js
