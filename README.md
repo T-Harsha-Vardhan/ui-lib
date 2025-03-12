@@ -5,5 +5,5 @@ Reusable UI components for React/Next.js apps.
 ## Installation
 
 ```bash
-npm install @harsha-vardhan-t/ui-lib
+npm install base-ui-lib
 ```
